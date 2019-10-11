@@ -1,0 +1,1 @@
+jupyter notebook --NotebookApp.websocket_compression_optionsAny={}
