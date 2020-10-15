@@ -1,0 +1,7 @@
+jupyter-server-proxy
+numpy==1.18.5
+vpython
+scipy==1.4.1
+gym
+tensorflow==2.0.1
+matplotlib
