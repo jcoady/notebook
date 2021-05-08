@@ -1,1 +1,2 @@
+jupyter labextension install vpython
 jupyter notebook --NotebookApp.websocket_compression_optionsAny={}
