@@ -1,8 +1,9 @@
 jupyter-server-proxy
 numpy==1.18.5
 vpython==7.6.1
-jupyterlab
+jupyterlab==3.0.14
 scipy==1.4.1
 gym
 tensorflow==2.0.1
 matplotlib
+jupyterlab-vpython
