@@ -1,2 +1,1 @@
-python3 -m pip install -i https://test.pypi.org/simple/ --extra-index-url https://pypi.org/simple jupyterlab-vpython
 jupyter notebook --NotebookApp.websocket_compression_optionsAny={}
