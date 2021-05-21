@@ -4,6 +4,6 @@ vpython==7.6.1
 jupyterlab==3.0.14
 scipy==1.4.1
 gym
-tensorflow==2.0.1
+tensorflow==2.5.0
 matplotlib
 jupyterlab-vpython
