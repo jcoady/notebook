@@ -1,5 +1,5 @@
 jupyter-server-proxy
-numpy==1.18.5
+numpy==1.22.0
 vpython==7.6.3
 jupyterlab==3.2.9
 scipy==1.4.1
