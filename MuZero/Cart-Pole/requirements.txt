@@ -1,5 +1,5 @@
 jupyter-server-proxy
-numpy==1.18.5
+numpy==1.22.0
 vpython
 scipy==1.4.1
 gym
